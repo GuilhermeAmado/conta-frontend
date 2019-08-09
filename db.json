@@ -1,0 +1,44 @@
+{
+  "cidades": [
+    {
+      "id": 1,
+      "nome": "Arapongas",
+      "estado": "PR"
+    },
+    {
+      "id": 2,
+      "nome": "Apucarana",
+      "estado": "PR"
+    },
+    {
+      "id": 3,
+      "nome": "Londrina",
+      "estado": "PR"
+    },
+    {
+      "id": 4,
+      "nome": "Maringá",
+      "estado": "PR"
+    },
+    {
+      "id": 5,
+      "nome": "Curitiba",
+      "estado": "PR"
+    },
+    {
+      "nome": "Paranavaí",
+      "estado": "PR",
+      "id": 6
+    }
+  ],
+  "agencias": [
+    {
+      "id": 1,
+      "numero": "123456",
+      "digito": 1
+    }
+  ],
+  "clientes": {
+    "name": "Teste"
+  }
+}
